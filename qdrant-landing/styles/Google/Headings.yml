@@ -9,6 +9,7 @@ indicators:
 exceptions:
   - API
   - Azure
+  - Autogen
   - Cheshire Cat
   - CLI
   - Cosmos
@@ -18,17 +19,24 @@ exceptions:
   - HNSW
   - Hugging Face
   - I
+  - IDs
+  - JAR
+  - JDK
   - Kubernetes
+  - LangChain
   - Linux
   - macOS
   - Marketplace
+  - MindsDB
   - MongoDB
   - OpenAI
   - Qdrant
   - Qdrant Cloud
   - REPL
   - SDK
+  - Spark
   - Studio
+  - txtai
   - TypeScript
   - URLs
   - Visual

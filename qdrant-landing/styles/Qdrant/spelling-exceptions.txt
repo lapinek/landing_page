@@ -33,6 +33,7 @@ ArXiv
 Asana
 Asciidoctor
 Assembla
+async
 Atlassian
 auditability
 Auth0
@@ -108,6 +109,7 @@ ChaosKube
 chatbot
 chatbots
 ChatOps
+checkpointing
 checksummed
 checksumming
 Citrix
@@ -147,7 +149,9 @@ csv
 Cyber
 cybersecurity
 Dangerfile
+Databricks
 Datadog
+dataframe
 datasource
 datasources
 datetime
@@ -206,6 +210,7 @@ downvoted
 downvotes
 Dpl
 Dreamweaver
+DSPy
 Ecto
 Elasticsearch
 enablement
@@ -293,6 +298,7 @@ hotfix
 hotfixed
 hotfixes
 hotfixing
+HSNW
 htmltest
 http
 https
@@ -353,8 +359,10 @@ Kroki
 Kubecost
 kubectl
 Kubernetes
+Kubeflow
 Kubesec
 Kustomize
+Langchain
 Laravel
 ldapsearch
 Lefthook
@@ -363,6 +371,7 @@ libFuzzer
 Libravatar
 liveness
 LLM
+LLs
 LLMs
 Lodash
 Lograge
@@ -423,6 +432,7 @@ monorepo
 monorepos
 mov
 multiline
+multimodal
 multitenancy
 mutex
 nameserver
@@ -530,6 +540,7 @@ pseudonymizer
 Puma
 pytest
 Python
+Pythonic
 qdrant
 Qdrant
 Qdrant's
@@ -615,6 +626,7 @@ runbooks
 runit
 runtime
 runtimes
+Sagemaker
 Salesforce
 sandboxing
 sanitization
@@ -624,6 +636,8 @@ scatterplot
 scatterplots
 Schemastore
 scrollable
+SDK
+SDKs
 Semgrep
 Sendmail
 Sentry
@@ -759,6 +773,7 @@ Truststore
 Twilio
 Twitter
 txt
+txtai
 TypeScript
 Ubuntu
 unapplied
@@ -863,9 +878,12 @@ upvote
 upvoted
 upvotes
 URIs
+UUID
+UUIDs
 Vagrantfile
 validator
 validators
+vectorstore
 vendored
 versionless
 viewport

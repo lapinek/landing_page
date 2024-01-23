@@ -44,8 +44,10 @@ exceptions:
   - DAG
   - DAST
   - DHCP
+  - DLT
   - DMZ
   - DNS
+  - DOI
   - DOM
   - DSA
   - DSL
@@ -74,6 +76,7 @@ exceptions:
   - GNU
   - GPG
   - GPL
+  - GPT
   - GPU
   - GUI
   - HAML
@@ -81,6 +84,7 @@ exceptions:
   - HEAD
   - HIPAA
   - HLL
+  - HNSW
   - HTML
   - HTTP
   - HTTPS
@@ -95,6 +99,8 @@ exceptions:
   - IOPS
   - IRC
   - ISO
+  - JAR
+  - JDK
   - JPEG
   - JPG
   - JSON
@@ -105,6 +111,7 @@ exceptions:
   - LDAPS
   - LESS
   - LFS
+  - LLM
   - LRU
   - LTM
   - LTS
@@ -118,6 +125,7 @@ exceptions:
   - NFS
   - NGINX
   - NIST
+  - NLP
   - NOTE
   - NPM
   - NTP
@@ -139,6 +147,7 @@ exceptions:
   - POST
   - PUT
   - RAID
+  - RAG
   - RAM
   - RBAC
   - RDMS
